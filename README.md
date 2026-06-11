@@ -10,6 +10,8 @@
 [![macOS](https://img.shields.io/badge/platform-macOS-lightgrey)]()
 [![Linux](https://img.shields.io/badge/platform-Linux-yellow)]()
 
+> 🌐 **控制台总览:** [fast118.github.io/console](https://fast118.github.io/console/) - 看所有 fast118 开源项目
+
 ---
 
 ## 这是什么?
