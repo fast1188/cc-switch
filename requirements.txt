@@ -1,0 +1,2 @@
+# CC Switch has no external dependencies
+# Only uses Python standard library (tkinter)
