@@ -133,3 +133,12 @@ api.skillai.top (国内中转)
 ## 许可证
 
 MIT
+
+
+## 💬 联系
+
+扫码加微信群（AI 工具使用 / 提 issue / 需求讨论）：
+
+![微信群](assets/wechat-qr.png)
+
+或提 [GitHub Issue](https://github.com/fast118/cc-switch/issues)
