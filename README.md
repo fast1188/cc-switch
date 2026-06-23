@@ -10,7 +10,7 @@
 [![macOS](https://img.shields.io/badge/platform-macOS-lightgrey)]()
 [![Linux](https://img.shields.io/badge/platform-Linux-yellow)]()
 
-> 🌐 **控制台总览:** [fast118.github.io/console](https://fast118.github.io/console/) - 看所有 fast118 开源项目
+> 🌐 **控制台总览:** [fast1188.github.io/console](https://fast1188.github.io/console/) - 看所有 fast118 开源项目
 
 ---
 
@@ -35,7 +35,7 @@ CC Switch 是一个桌面 GUI 工具,帮你**一键管理多个 AI 编程助手*
 
 **安装:**
 ```bash
-git clone https://github.com/fast118/cc-switch
+git clone https://github.com/fast1188/cc-switch
 cd cc-switch
 py -m pip install -r requirements.txt
 ```
@@ -125,9 +125,9 @@ api.skillai.top (国内中转)
 
 ## 相关项目
 
-- [codex-pp](https://github.com/fast118/codex-pp) - CLI 增强版
-- [ai-agent-skills](https://github.com/fast118/ai-agent-skills) - 11 个 skill
-- [free-ai-router](https://github.com/fast118/free-ai-router) - 多 AI 路由器
+- [codex-pp](https://github.com/fast1188/codex-pp) - CLI 增强版
+- [ai-agent-skills](https://github.com/fast1188/ai-agent-skills) - 11 个 skill
+- [free-ai-router](https://github.com/fast1188/free-ai-router) - 多 AI 路由器
 - [api.skillai.top](https://api.skillai.top) - 国内直连 API
 
 ## 许可证
@@ -141,4 +141,4 @@ MIT
 
 ![微信群](assets/wechat-qr.png)
 
-或提 [GitHub Issue](https://github.com/fast118/cc-switch/issues)
+或提 [GitHub Issue](https://github.com/fast1188/cc-switch/issues)
