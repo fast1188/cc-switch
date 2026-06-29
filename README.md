@@ -135,6 +135,15 @@ api.skillai.top (国内中转)
 MIT
 
 
+## 🔗 Related Projects
+
+| Project | Description |
+|---------|-------------|
+| [free-ai-router](https://github.com/fast1188/free-ai-router) | Multi-AI fallback router + OpenAI-compatible server |
+| [ai-agent-skills](https://github.com/fast1188/ai-agent-skills) | Cross-platform AI coding agent skills |
+| [codex-pp](https://github.com/fast1188/codex-pp) | Codex CLI supercharger |
+| [console](https://github.com/fast1188/console) | Unified dashboard → [Live](https://fast1188.github.io/console/) |
+
 ## 💬 联系
 
 扫码加微信群（AI 工具使用 / 提 issue / 需求讨论）：
